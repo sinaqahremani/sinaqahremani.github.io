@@ -165,13 +165,15 @@ blockquote {
   width: 100%;
 
   .more-info {
-    margin-bottom: 5px;
+    margin-bottom: 40px;
     margin-top: 5px;
-    font-family: monospace;
+    // font-family: monospace;
+
 
     p {
-      display: inline-block;
+      display: block;
       margin: 0;
+      font-size: 15px;
     }
   }
 }
